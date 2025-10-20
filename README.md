@@ -21,3 +21,7 @@ A CNN built with TensorFlow/Keras, consisting of multiple convolutional layers w
 ## Results
 
 The trained model achieved approximately **93.41% accuracy** after 10 epochs of training. Accuracy can be further improved by expanding the dataset, applying additional augmentation, tuning hyperparameters, or exploring deeper architectures and transfer learning.
+
+## Our Custom Dataset Kaggle Link
+https://www.kaggle.com/datasets/biratpoudelrocks/nepali-sign-language-character-dataset
+
