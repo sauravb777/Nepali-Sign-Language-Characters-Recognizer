@@ -8,7 +8,7 @@ A real-time Nepali Sign Language character recognizer using a webcam and CNN (Te
 
 An updated version of this project has been documented in our research paper.
 
-[Read the paper on arXiv](YOUR_ARXIV_LINK_HERE)
+[Read the paper on arXiv](https://arxiv.org/pdf/2510.11243)
 
 --- 
 
