@@ -4,6 +4,14 @@ A real-time Nepali Sign Language character recognizer using a webcam and CNN (Te
 
 ---
 
+## Research Paper
+
+An updated version of this project has been documented in our research paper.
+
+[Read the paper on arXiv](YOUR_ARXIV_LINK_HERE)
+
+--- 
+
 ## Dataset
 
 The dataset was manually collected using personal devices/webcams and currently includes **14 gesture classes**. For each gesture, approximately **1,100** raw images were captured and then augmented (flipping, rotation, translation, brightness adjustments, noise) to produce **~2,100** training images per class. A separate set of **~700** images per class was used for testing. All images are stored in **grayscale** at **300×300** pixels.
