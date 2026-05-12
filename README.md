@@ -1,4 +1,4 @@
-# UPDATE --> Our Research Paper got Published recently, have a look at it here - https://doi.org/10.3126/kjse.v10i1.93865
+UPDATE --> Our Research Paper got Published recently, have a look at it here - https://doi.org/10.3126/kjse.v10i1.93865
 
 # Nepali Sign Language Recognizer
 
